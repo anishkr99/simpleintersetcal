@@ -1,2 +1,0 @@
-# simpleintersetcal
-imple interest calculator
